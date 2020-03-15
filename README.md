@@ -17,7 +17,7 @@ Due to privacy concerns, we only release the user IDs in Twitter and GHTorrent, 
 
 To query the Twitter API for a given user_id, you can:
 
-- Apply for Twitter developer account here: https://developer.twitter.com/en/apply-for-access
+- Apply for Twitter developer account [here](https://developer.twitter.com/en/apply-for-access): 
 - Create an APP with your Twitter developer account, and create an "API key" and "API secret key".
 - Obtain an access token. Given the previous API keys, run: 
 
