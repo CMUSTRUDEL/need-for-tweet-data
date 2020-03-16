@@ -1,4 +1,4 @@
-This dataset contains 70,427 cross-linked Twitter-[GHTorrent](http://ghtorrent.org) user pairs identified as likely belonging to the same users. The dataset accompanies our research paper:
+This dataset contains 70,427 cross-linked Twitter-[GHTorrent](http://ghtorrent.org) user pairs identified as likely belonging to the same users. The dataset accompanies our research paper ([PDF preprint here](http://cmustrudel.github.io/papers/msr20tweets.pdf)):
 
 ```
 @inproceedings{fang2020tweet,
